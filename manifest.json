@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "version": "0.3.0",
-  "description": "Tweet the current tab",
-  "name": "Tweet That!",
-  "homepage_url": "https://github.com/hfiguiere/tweet-that",
+  "version": "0.3.99",
+  "description": "Publish the current tab URL to the Fediverse",
+  "name": "Toot That!",
+  "homepage_url": "https://github.com/hfiguiere/toot-that",
 
   "icons": {
     "16": "data/icon-16.png",
@@ -12,23 +12,19 @@
   },
 
   "permissions": [
+    "activeTab",
     "tabs"
   ],
 
   "browser_action": {
     "default_icon": "data/icon-32.png",
-    "default_title": "Tweet That!",
-    "default_popup": "popup/tweetthat.html"
-  },
-
-  "background": {
-    "scripts": ["background.js"]
+    "default_title": "Toot That!",
+    "default_popup": "popup/tootthat.html"
   },
 
   "applications": {
     "gecko": {
-      "id": "jid1-pF9SZq2GsG9cRA@jetpack",
-      "strict_min_version": "55.0"
+      "id": "tootthat@figuiere.net"
     }
   }
 }

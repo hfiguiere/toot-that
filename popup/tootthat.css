@@ -1,0 +1,8 @@
+html, body {
+    width: 300px;
+    height: 800px;
+}
+
+.hidden {
+    display: none;
+}

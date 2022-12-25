@@ -12,9 +12,15 @@
   },
 
   "permissions": [
+    "storage",
     "activeTab",
     "tabs"
   ],
+
+  "options_ui": {
+    "page": "options/options.html",
+    "browser_style": true
+  },
 
   "browser_action": {
     "default_icon": "data/icon-32.png",
@@ -22,7 +28,7 @@
     "default_popup": "popup/tootthat.html"
   },
 
-  "applications": {
+  "browser_specific_settings": {
     "gecko": {
       "id": "tootthat@figuiere.net"
     }

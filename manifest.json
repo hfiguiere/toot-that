@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "0.3.99",
+  "version": "0.4.0",
   "description": "Publish the current tab URL to the Fediverse",
   "name": "Toot That!",
   "homepage_url": "https://github.com/hfiguiere/toot-that",

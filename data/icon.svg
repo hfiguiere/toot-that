@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="1.731241"
+     inkscape:cx="100.79475"
+     inkscape:cy="150.7589"
+     inkscape:window-width="1600"
+     inkscape:window-height="831"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2138" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ac9393;stroke:#000000;stroke-width:0.472441;stroke-linejoin:round"
+       d="m 80,6.25 42.5,37.5 -82.5,55 z"
+       id="path2607" />
+    <circle
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.125;stroke-linejoin:round;stroke-dasharray:none"
+       id="path2661"
+       cx="35.118111"
+       cy="102.38189"
+       r="22.294029" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+       x="70.058594"
+       y="105.9668"
+       id="text2825"><tspan
+         sodipodi:role="line"
+         id="tspan2823"
+         style="stroke-width:0.5"
+         x="70.058594"
+         y="105.9668">TooT!</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.125;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect5082"
+       width="5"
+       height="10"
+       x="45"
+       y="95" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.125;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 115,42.5 -57.5,40 V 80 l 55,-40 z"
+       id="path5146" />
+  </g>
+</svg>

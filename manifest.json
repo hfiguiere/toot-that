@@ -6,9 +6,9 @@
   "homepage_url": "https://github.com/hfiguiere/toot-that",
 
   "icons": {
-    "16": "data/icon-16.png",
-    "32": "data/icon-32.png",
-    "64": "data/icon-64.png"
+    "48": "data/icon.svg",
+    "96": "data/icon.svg",
+    "128": "data/icon.svg"
   },
 
   "permissions": [
@@ -23,7 +23,7 @@
   },
 
   "browser_action": {
-    "default_icon": "data/icon-32.png",
+    "default_icon": "data/icon.svg",
     "default_title": "Toot That!",
     "default_popup": "popup/tootthat.html"
   },
